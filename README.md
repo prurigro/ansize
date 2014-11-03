@@ -17,8 +17,8 @@ The rendering functionality works the same way as it does upstream in [Ansize](h
 
 ## USAGE ##
 
-* Display the image with a specified column width: `ansize <image> [width]`
-* Display the image at the terminal width: `ansize <image>`
+* Display the image with a specified column width: `ansize-stdout <image> [width]`
+* Display the image at the terminal width: `ansize-stdout <image>`
 
 ## CREDITS ##
 
